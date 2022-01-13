@@ -1,3 +1,13 @@
+# Before working in other repo we should follow the steps
+
+1. We should clone the repo
+2. For verification we can check it via hidden file where we can see .git.
+3. Then follow these command
+
+```bash
+git add .; git commit -m "commit"; git push
+```
+
 # For new branch
 
 ```bash
