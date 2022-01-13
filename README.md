@@ -7,7 +7,7 @@ git checkout -b [branch name]
 # For see branches how many branches
 
 ```bash
-    git branch
+git branch
 ```
 
 # For switch before branch
@@ -32,4 +32,10 @@ git checkout -d [branch name]
 
 ```bash
 git pull origin [branch name]
+```
+
+# For git clone
+
+```bash
+git clone [url]
 ```
